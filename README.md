@@ -2,18 +2,17 @@
 
 A Streamlit-based web application for detecting fake news in Bengali using a fine-tuned XLM-RoBERTa  model.
 
-![App Banner](images/banner.png)
+
 
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](images/main-interface.png)
+![Main Interface](images/main.png)
 
 ### Prediction Results
-![Prediction Results](images/prediction-results.png)
+![Prediction Results](images/prediction.png)
 
-### History Dashboard
-![History Dashboard](images/history-dashboard.png)
+
 ## 🌟 Features
 
 - **Real-time News Verification**: Analyze Bengali news articles instantly
